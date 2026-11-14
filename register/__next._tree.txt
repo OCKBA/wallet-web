@@ -1,0 +1,4 @@
+:HL["/wallet-web/_next/static/chunks/291e-2m5530pd.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"register","h":96,"c":"$Q2"}]]
+0:{"b":"3mmMzhqWS6ypYsh8eQT91","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
